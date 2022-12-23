@@ -25,3 +25,4 @@
 <center><p>&nbsp;<img width="500" src="https://github-readme-stats.vercel.app/api?username=2-kushagra-3&show_icons=true&locale=en" alt="2-kushagra-3" /></p></cneter>
 
 <center><p><img  width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=2-kushagra-3&" alt="2-kushagra-3" /></p></center>
+<center><p>&nbsp;<img src="https://github-readme-activity-graph.cyclic.app/graph?username=2-kushagra-3&theme=nightowl" alt="2-kushagra-3" /></p></cneter>
