@@ -6,7 +6,8 @@
 
 - 🔭 I’m currently working on **TextA**
 
-- 🔭I’m currently working on **CookEzz**
+- 🔭I’m currently working on **ORE**
+- Interning at SFR Medical
 
 - 📫 How to reach me **kushagraid@gmail.com**
 
