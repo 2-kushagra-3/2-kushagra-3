@@ -4,10 +4,11 @@
 
 <img align = "right" alt = "GIF" width = "400" src = "https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" >
 
-- 🔭 I’m currently working on **TextA**
+- 🔭 Have created a bluetooth messaging android application **TextA**
 
-- 🔭I’m currently working on **ORE**
-- Interning at SFR Medical
+- 🔭Have created an ios game **ORE**
+- Have intrened at at SFR Medical
+- - Have intrened at at AB-INBEV
 
 - 📫 How to reach me **kushagraid@gmail.com**
 
